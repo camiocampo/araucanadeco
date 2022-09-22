@@ -1,0 +1,47 @@
+container-fluid{
+  display: inline-block;
+  vertical-align: middle;
+  width: 70px;
+  align-items: center;
+}
+h1{
+  text-align: center;
+  color: rgb(160, 102, 44);
+}
+.nav-logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 70px;
+  }
+.nav-logo img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .nav-item{
+    padding: 15px;
+    vertical-align: middle;
+  }
+.container-fluid{
+    
+  align-items: center;
+}
+body img{
+    display: flex;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+   
+}
+footer{
+  align-items: center;
+}
+div{
+  text-align: center;
+  color:rgb(160, 102, 44);
+  font-size: x-large;
+}
+body{
+  background-color: rgba(161, 113, 49, 0.479);
+}
