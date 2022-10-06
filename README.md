@@ -1,2 +1,2 @@
 # araucanadeco
-es un archivo para la segunda entrega de Coder.
+es un archivo para la tercer entrega de Coder.
