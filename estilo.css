@@ -5,8 +5,13 @@ container-fluid{
   align-items: center;
 }
 h1{
+
+
   text-align: center;
   color: rgb(160, 102, 44);
+  font-family: "Courgette-Regular";
+  src:  url("Courgette-Regular.ttf");
+  font-size: xx-large;
 }
 .nav-logo{
     display: inline-block;
@@ -43,5 +48,8 @@ div{
   font-size: x-large;
 }
 body{
-  background-color: rgba(161, 113, 49, 0.479);
+  background-image: url("fondooo.png");
+  background-size: 100%;
+
 }
+
